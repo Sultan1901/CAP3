@@ -1,0 +1,7 @@
+[
+  { "id": "1", "name": "kk", "isFav": "true", "isDeleted": "true" },
+  { "id": "2", "name": "pp", "isFav": "true", "isDeleted": "true" },
+  { "id": "3", "name": "read", "isFav": "true", "isDeleted": "false" },
+  { "id": "4", "name": "cocking", "isFav": "false", "isDeleted": "false" },
+  { "id": "5", "name": "wwwwwwwwwwww", "isFav": "true", "isDeleted": "true" }
+]
